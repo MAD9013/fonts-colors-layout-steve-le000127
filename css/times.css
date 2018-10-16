@@ -168,9 +168,3 @@ h1.story-title {
         background-color: hsl(199, 29%, 90%);
     }
 }
-
-@media screen and (orientation: landscape) {
-    body {
-        background-color: hsl(199, 29%, 90%)
-    }
-}
